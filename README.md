@@ -8,7 +8,7 @@ This repository contains all of my devops projects.
 | Project | Description |
 |---|---|
 | [Installing-Jenkins](https://github.com/ShubhamBhavsar101/Installing-Jenkins) | Guide on how to install Jenkins on linux |
-| [Jenkins-Trigger-Multiple-Jobs]([https://github.com/ShubhamBhavsar101/Installing-Jenkins](https://github.com/ShubhamBhavsar101/Jenkins-Trigger-Multiple-Jobs) | Trigger Multiple Jenkins Pipelines at once |
+| [Jenkins-Trigger-Multiple-Jobs](https://github.com/ShubhamBhavsar101/Jenkins-Trigger-Multiple-Jobs) | Trigger Multiple Jenkins Pipelines at once |
 
 ## Docker
 
