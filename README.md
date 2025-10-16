@@ -11,6 +11,11 @@ This repository contains all of my devops projects.
 | [Jenkins-Trigger-Multiple-Jobs](https://github.com/ShubhamBhavsar101/Jenkins-Trigger-Multiple-Jobs) | Trigger Multiple Jenkins Pipelines at once |
 | [Jenkins Shared Library](https://github.com/ShubhamBhavsar101/Jenkins-Shared-Library.git) | Jenkins Shared Library Repository |
 
+## Github Actions
+| Project | Description |
+|---|---|
+| [Maven CICD with Github Actions](https://github.com/ShubhamBhavsar101/Maven-CICD-with-Github-Actions.git) | Using Github Actions workflow for a Maven CICD Pipeline |
+
 
 ## Ansible
 
@@ -23,22 +28,26 @@ This repository contains all of my devops projects.
 
 | Project | Description |
 |---|---|
+| [Multi Stage Docker Builds](https://github.com/ShubhamBhavsar101/Docker-Multi-Stage-Builds.git) | Dockerfiles for multi stage docker builds |
 
 ## Artifactory
+
 | Project | Description |
 |---|---|
 | [Artifactory Setup](https://github.com/ShubhamBhavsar101/Artifactory.git) | Setting up Jfrog Artifactory locally|
 
 ## Kubernetes
+
 | Project | Description |
 |---|---|
+| [Installing Minikube](https://github.com/ShubhamBhavsar101/Installing-Minikube.git) | Guide to install minikube on linux |
 
 
 ## AWS
 
 | Project | Description |
 |---|---|
-
+| [AWS Blue Green Deployment](https://github.com/ShubhamBhavsar101/AWS-Blue-Green-Deployment.git) | Deploying Maven Application on a AWS Blue Green Infrastructure |
 
 ## Utilities, Scripts & Misc
 
