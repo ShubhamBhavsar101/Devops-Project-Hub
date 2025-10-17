@@ -7,9 +7,9 @@ This repository contains all of my devops projects.
 
 | Project | Description |
 |---|---|
-| [Installing-Jenkins](https://github.com/ShubhamBhavsar101/Installing-Jenkins) | Guide on how to install Jenkins on linux |
-| [Jenkins-Trigger-Multiple-Jobs](https://github.com/ShubhamBhavsar101/Jenkins-Trigger-Multiple-Jobs) | Trigger Multiple Jenkins Pipelines at once |
+| [Jenkins Trigger Pipeline](https://github.com/ShubhamBhavsar101/Jenkins-Trigger-Multiple-Jobs) | Trigger Multiple Jenkins Pipelines at once |
 | [Jenkins Shared Library](https://github.com/ShubhamBhavsar101/Jenkins-Shared-Library.git) | Jenkins Shared Library Repository |
+| [Jenkins CICD Pipeline](https://github.com/ShubhamBhavsar101/Jenkins-CICD.git) | A complete jenkins CICD pipeline |
 
 ## Github Actions
 | Project | Description |
@@ -36,25 +36,11 @@ This repository contains all of my devops projects.
 |---|---|
 | [Artifactory Setup](https://github.com/ShubhamBhavsar101/Artifactory.git) | Setting up Jfrog Artifactory locally|
 
-## Kubernetes
-
-| Project | Description |
-|---|---|
-| [Installing Minikube](https://github.com/ShubhamBhavsar101/Installing-Minikube.git) | Guide to install minikube on linux |
-
-
 ## AWS
 
 | Project | Description |
 |---|---|
 | [AWS Blue Green Deployment](https://github.com/ShubhamBhavsar101/AWS-Blue-Green-Deployment.git) | Deploying Maven Application on a AWS Blue Green Infrastructure |
-
-## Utilities, Scripts & Misc
-
-| Project | Description |
-|---|---|
-| [Linux](https://github.com/ShubhamBhavsar101/Linux.git) | Linux Commands|
-
 
 ---
 
